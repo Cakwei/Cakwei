@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React Native and Next**
 
-- 👨‍💻 All of my projects are available at [https://www.cakwei.com](https://www.cakwei.com)
+- 👨‍💻 All of my projects are available at [https://www.cakwei.dev](https://www.cakwei.com)
 
 - 📫 How to reach me **charleetan2020@gmail.com**
 
