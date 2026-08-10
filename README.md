@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cakwei&label=Profile%20views&color=0e75b6&style=flat" alt="cakwei" /> </p>
 
-- 🌱 I’m currently learning **React, React Native and Next**
+- 🌱 I’m currently learning **React Native & TanStack Start**
 
-- 👨‍💻 All of my projects are available at [https://www.cakwei.dev](https://www.cakwei.com)
+- 👨‍💻 All of my projects are available at [https://www.cakwei.dev](https://www.cakwei.dev)
 
 - 📫 How to reach me **charleetan2020@gmail.com**
 
