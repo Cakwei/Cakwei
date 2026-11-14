@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130" width="100%" height="130" fill="none">
+  <style>
+    @keyframes bob {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-3px); }
+    }
+    @keyframes legLeft {
+      0%, 100% { transform: rotate(-22deg); }
+      50% { transform: rotate(22deg); }
+    }
+    @keyframes legRight {
+      0%, 100% { transform: rotate(22deg); }
+      50% { transform: rotate(-22deg); }
+    }
+    @keyframes armLeft {
+      0%, 100% { transform: rotate(18deg); }
+      50% { transform: rotate(-18deg); }
+    }
+    @keyframes armRight {
+      0%, 100% { transform: rotate(-18deg); }
+      50% { transform: rotate(18deg); }
+    }
+    @keyframes scrollGround {
+      0% { transform: translateX(0px); }
+      100% { transform: translateX(-160px); }
+    }
+    @keyframes scrollClouds {
+      0% { transform: translateX(0px); }
+      100% { transform: translateX(-400px); }
+    }
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.25; }
+      50% { opacity: 0.9; }
+    }
+
+    .walker {
+      animation: bob 0.5s ease-in-out infinite;
+    }
+    .leg-l {
+      transform-origin: 400px 84px;
+      animation: legLeft 0.5s ease-in-out infinite;
+    }
+    .leg-r {
+      transform-origin: 400px 84px;
+      animation: legRight 0.5s ease-in-out infinite;
+    }
+    .arm-l {
+      transform-origin: 400px 64px;
+      animation: armLeft 0.5s ease-in-out infinite;
+    }
+    .arm-r {
+      transform-origin: 400px 64px;
+      animation: armRight 0.5s ease-in-out infinite;
+    }
+    .ground-track {
+      animation: scrollGround 1.6s linear infinite;
+    }
+    .clouds {
+      animation: scrollClouds 16s linear infinite;
+    }
+    .star-1 { animation: twinkle 2.4s ease-in-out infinite; }
+    .star-2 { animation: twinkle 3.1s ease-in-out infinite 0.7s; }
+    .star-3 { animation: twinkle 2.8s ease-in-out infinite 1.3s; }
+  </style>
+
+  <!-- Subtle rounded card background -->
+  <rect x="0" y="0" width="800" height="130" rx="12" fill="#0f172a" />
+
+  <!-- Twinkling stars -->
+  <circle class="star-1" cx="95" cy="24" r="1.5" fill="#bae6fd" />
+  <circle class="star-2" cx="240" cy="18" r="1.8" fill="#7dd3fc" />
+  <circle class="star-3" cx="540" cy="22" r="1.5" fill="#bae6fd" />
+  <circle class="star-1" cx="690" cy="30" r="2" fill="#38bdf8" />
+  <circle class="star-2" cx="745" cy="16" r="1.2" fill="#e0f2fe" />
+
+  <!-- Crescent moon -->
+  <path d="M720 26 A10 10 0 1 0 732 38 A8 8 0 1 1 720 26 Z" fill="#fde68a" opacity="0.85" />
+
+  <!-- Drifting clouds (looped across 1200px) -->
+  <g class="clouds" opacity="0.18" fill="#94a3b8">
+    <rect x="80" y="28" width="48" height="12" rx="6" />
+    <rect x="92" y="21" width="24" height="12" rx="6" />
+    <rect x="290" y="36" width="58" height="12" rx="6" />
+    <rect x="306" y="29" width="28" height="12" rx="6" />
+    <rect x="480" y="28" width="48" height="12" rx="6" />
+    <rect x="492" y="21" width="24" height="12" rx="6" />
+    <rect x="690" y="36" width="58" height="12" rx="6" />
+    <rect x="706" y="29" width="28" height="12" rx="6" />
+    <rect x="880" y="28" width="48" height="12" rx="6" />
+    <rect x="892" y="21" width="24" height="12" rx="6" />
+  </g>
+
+  <!-- Ground horizon -->
+  <line x1="0" y1="106" x2="800" y2="106" stroke="#334155" stroke-width="2" />
+
+  <!-- Scrolling ground markers -->
+  <g class="ground-track" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" opacity="0.45">
+    <line x1="20" y1="115" x2="46" y2="115" />
+    <line x1="100" y1="118" x2="118" y2="118" />
+    <line x1="180" y1="115" x2="206" y2="115" />
+    <line x1="260" y1="118" x2="278" y2="118" />
+    <line x1="340" y1="115" x2="366" y2="115" />
+    <line x1="420" y1="118" x2="438" y2="118" />
+    <line x1="500" y1="115" x2="526" y2="115" />
+    <line x1="580" y1="118" x2="598" y2="118" />
+    <line x1="660" y1="115" x2="686" y2="115" />
+    <line x1="740" y1="118" x2="758" y2="118" />
+    <line x1="820" y1="115" x2="846" y2="115" />
+    <line x1="900" y1="118" x2="918" y2="118" />
+  </g>
+
+  <!-- Walking character (facing right) -->
+  <g class="walker">
+    <!-- Shadow -->
+    <ellipse cx="400" cy="106" rx="14" ry="3" fill="#020617" opacity="0.6" />
+
+    <!-- Back arm -->
+    <g class="arm-r">
+      <line x1="400" y1="64" x2="400" y2="82" stroke="#0284c7" stroke-width="5" stroke-linecap="round" />
+    </g>
+
+    <!-- Back leg -->
+    <g class="leg-r">
+      <line x1="400" y1="84" x2="400" y2="103" stroke="#1e293b" stroke-width="6" stroke-linecap="round" />
+      <line x1="400" y1="103" x2="406" y2="103" stroke="#38bdf8" stroke-width="4" stroke-linecap="round" />
+    </g>
+
+    <!-- Front leg -->
+    <g class="leg-l">
+      <line x1="400" y1="84" x2="400" y2="103" stroke="#334155" stroke-width="6" stroke-linecap="round" />
+      <line x1="400" y1="103" x2="406" y2="103" stroke="#7dd3fc" stroke-width="4" stroke-linecap="round" />
+    </g>
+
+    <!-- Hoodie / Torso -->
+    <rect x="391" y="59" width="18" height="27" rx="6" fill="#0ea5e9" />
+
+    <!-- Head -->
+    <circle cx="400" cy="46" r="11" fill="#fde68a" />
+    <!-- Hair / Cap -->
+    <path d="M389 44 C389 35, 411 35, 411 44 L415 44 L389 44 Z" fill="#1e293b" />
+    <!-- Chill eye -->
+    <circle cx="405" cy="46" r="1.5" fill="#0f172a" />
+
+    <!-- Front arm -->
+    <g class="arm-l">
+      <line x1="400" y1="64" x2="400" y2="82" stroke="#38bdf8" stroke-width="5" stroke-linecap="round" />
+    </g>
+  </g>
+
+  <!-- Subtle label -->
+  <text x="20" y="96" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">
+    strolling through code...
+  </text>
+</svg>

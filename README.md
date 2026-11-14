@@ -1,25 +1,76 @@
-<h1 align="center">Hi 👋, I'm Charlee Tan</h1>
-<h3 align="center">A normal web developer from APU, Malaysia</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Hi,%20I'm%20Charlee%20Tan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20APU,%20Malaysia&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Header Banner" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cakwei&label=Profile%20views&color=0e75b6&style=flat" alt="cakwei" /> </p>
-
-- 🌱 I’m currently learning **Tauri**
-
-- 👨‍💻 All of my projects are available at [https://www.cakwei.dev](https://www.cakwei.dev)
-
-- 📫 How to reach me **charlee@cakwei.dev**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/charlee-tan-1833902b6/](https://www.linkedin.com/in/charlee-tan-1833902b6/)
-
-- ⚡ Fun fact **I am way too chill on the outside**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/charlee-tan-1833902b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlee-tan-1833902b6" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.cakwei.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-cakwei.dev-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/charlee-tan-1833902b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Charlee%20Tan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.cakwei.dev/resume" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-CV-6366f1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume / CV" />
+  </a>
+  <a href="https://www.credly.com/users/charlee-tan" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  <a href="mailto:charlee@cakwei.dev">
+    <img src="https://img.shields.io/badge/Email-charlee%40cakwei.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cakwei&label=Views&color=1e293b&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cakwei&show_icons=true&locale=en&layout=compact" alt="cakwei" /></p>
+### 🧑‍💻 About Me
 
+```yaml
+name: "Charlee Tan"
+location: "APU, Malaysia"
+currently_learning: "Tauri"
+portfolio: "https://www.cakwei.dev"
+contact: "charlee@cakwei.dev"
+fun_fact: "I am way too chill on the outside ⚡"
+```
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,express,tauri,mysql,python,java,cpp,html,css,git,figma,postman&perline=8" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cakwei&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Charlee's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakwei&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cakwei/cakwei/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cakwei/cakwei/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cakwei/cakwei/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/walking.svg" width="100%" alt="Chill Walking Animation" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
