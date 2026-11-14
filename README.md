@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/charlee-tan-1833902b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Charlee%20Tan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.cakwei.dev/resume" target="_blank">
+  <a href="https://s3-ui.cakwei.dev/portfolio/[2026]%20Charlee's%20Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-CV-6366f1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume / CV" />
   </a>
   <a href="https://www.credly.com/users/charlee-tan" target="_blank">
@@ -25,14 +25,9 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
-name: "Charlee Tan"
-location: "APU, Malaysia"
-currently_learning: "Tauri"
-portfolio: "https://www.cakwei.dev"
-contact: "charlee@cakwei.dev"
-fun_fact: "I am way too chill on the outside ⚡"
-```
+<p align="center">
+  <img src="./assets/about-card.svg" width="100%" alt="About Charlee Tan" />
+</p>
 
 ---
 
@@ -49,8 +44,12 @@ fun_fact: "I am way too chill on the outside ⚡"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cakwei&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Charlee's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakwei&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=cakwei&theme=tokyonight&hide_border=true&background=00000000&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" height="175" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="175" />
 </p>
 
 ---
